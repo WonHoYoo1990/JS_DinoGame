@@ -118,3 +118,5 @@ document.addEventListener('keydown', function (e) { // SpaceBar 누를 때 이�
         점프중 = true;
     }
 })
+
+// test01
