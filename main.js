@@ -12,7 +12,7 @@ var img2 = new Image();
 img2.src = 'cactus.png';
 
 //공룡 객체(주인공)
-var dino = {
+var dino = { 
     x: 10,
     y: 200,
     width: 50,
@@ -118,3 +118,5 @@ document.addEventListener('keydown', function (e) { // SpaceBar 누를 때 이�
         점프중 = true;
     }
 })
+
+// v1
